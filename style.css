@@ -1,0 +1,110 @@
+
+input  {
+  -webkit-appearance: none;
+}
+
+#navbar li{
+	list-style-type: none;
+	display: inline-block;
+	font-size: small;
+	padding: 10px;	
+}
+
+#grid {
+	background-image: url(http://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+	background-position: -136px -42px;
+	background-size: 528px 68px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+#grid2 {
+	background-image: url(http://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+	background-position: -194px -21px;
+	background-size: 528px 68px;
+	background-color: gray;
+	border-radius: 50px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+#footer li{
+	list-style-type: none;
+	display: inline-block;
+	font-size: small;
+	padding: 10px;	
+}
+#signup {
+	background-color: #4285f4;
+	color: white;
+	border-radius: 2px;
+
+}
+
+
+body {
+	font-family: arial, san-serif;
+}
+
+#navbar{
+	text-align: right;
+	margin-right: 30px;
+}
+
+#navbar a{
+	text-decoration: none;
+}
+
+#navbar a:hover {
+	text-decoration: underline;
+}
+
+
+#search {
+	padding-top: 100px;
+	text-align: center;
+}
+
+/*img {
+	display: block;
+	margin: auto;
+}
+*/
+#rf {
+	float: right;
+}
+#lf {
+	float: left;
+}
+
+#searchbar input {
+	margin: 30px;
+	width: 503px;
+	height: 34px;
+}
+
+#button input {
+	padding-top: 30px;
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	border-radius: 2px;
+	font-size: 13px;
+	font-weight: bold;
+	padding: 0 16px; 
+	margin: 11px 4px;
+	height: 36px; 
+	color: #757575;
+}
+
+#footer {
+	background-color: #f2f2f2;
+	padding-right: 10px;
+	position: absolute;
+	bottom: 0;
+	width: 100% 
+
+}
+
+#footer {
+	margin-bottom: 10px;
+}
